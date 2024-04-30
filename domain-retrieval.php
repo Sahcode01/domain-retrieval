@@ -18,7 +18,7 @@ if ($response !== false) {
     // Decode the JSON response
     $data = json_decode($response, true);
 
-    // Print the domains and DNS records
+    // Printing the domains and DNS records
     if (isset($data['domains'])) {
         echo "Domains for client ID $client_id:\n";
         foreach ($data['domains'] as $domain) {
