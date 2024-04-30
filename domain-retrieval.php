@@ -7,7 +7,7 @@ $api_url = 'https://api.recruitment.shq.nz';
 $client_id = 100;
 $api_key = 'h523hDtETbkJ3nSJL323hjYLXbCyDaRZ';
 
-// Constructing the URL with parameters
+// Constructing the URL with parameters.
 $url = $api_url . '/domains/' . $client_id . '?api_key=' . $api_key;
 
 // Making the request to the API
