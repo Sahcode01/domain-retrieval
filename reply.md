@@ -1,0 +1,1 @@
+Based on Alice's email, it seems like there might be an issue with the SSL/TLS certificate for the website "site.recruitment.shq.nz", which is causing the connection error when trying to access it in the browser.
